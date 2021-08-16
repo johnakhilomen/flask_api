@@ -19,3 +19,13 @@ docker-compose up
 ```python
 source env/bin/activate
 ```
+
+## DeActivate Env
+```python
+deactivate
+```
+Or 
+```
+conda deactivate
+```
+
