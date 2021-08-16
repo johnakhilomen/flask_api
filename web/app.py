@@ -1,7 +1,6 @@
-from resources.Add import Add
 from flask import Flask, app, jsonify, request
 from flask_restful import Api, Resource
-
+from resources.Add import *
 from pymongo import MongoClient
 
 app = Flask(__name__)
