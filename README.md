@@ -14,3 +14,8 @@ docker-compose build
 ```python
 docker-compose up
 ```
+
+## Activate Env
+```python
+source env/bin/activate
+```
